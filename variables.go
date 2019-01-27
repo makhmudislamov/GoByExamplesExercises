@@ -1,25 +1,25 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
+// func main() {
 
-	var a = "initial"
-	fmt.Println(a)
+// 	var a = "initial"
+// 	fmt.Println(a)
 
-	// declaring multiple variable at once
-	var b, c int = 1, 2
-	fmt.Println(b, c)
+// 	// declaring multiple variable at once
+// 	var b, c int = 1, 2
+// 	fmt.Println(b, c)
 
-	var d = true
-	fmt.Println(d)
+// 	var d = true
+// 	fmt.Println(d)
 
-	// zero valued variable >> prints 0
-	var e int
-	fmt.Println(e)
+// 	// zero valued variable >> prints 0
+// 	var e int
+// 	fmt.Println(e)
 
-	// this is equal to f strin = "short"
-	// only inside function
-	f := "short"
-	fmt.Println(f)
-}
+// 	// this is equal to f strin = "short"
+// 	// only inside function
+// 	f := "short"
+// 	fmt.Println(f)
+// }
